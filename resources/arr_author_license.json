@@ -1,0 +1,65 @@
+{
+  "Association_for_Computational_Linguistics_-_Blind_Submission_License_Agreement": {
+    "description": "DISCLAIMER AND INSTRUCTIONS",
+      "value-radio": [],
+      "required": false,
+      "order": 1
+  },
+  "conference": {
+    "description": "Name of the ACL Conference: ACL Rolling Review January 2022",
+    "value-radio": [],
+    "required": false,
+    "order": 2
+  },
+  "intro": {
+    "description": "This Blind Submission License Agreement (“Agreement”) is entered into between the Association for Computational Linguistics (“ACL”) and the Authors listed in connection with Authors’ blind submission paper listed above (referred as “Blind Submission Content”).\nIn exchange of adequate consideration, ACL and the Authors agree as follows:",
+    "value-radio": [],
+    "required": false,
+    "order": 3
+  },
+  "section_1_grant_of_license": {
+    "description": "After the peer review process is concluded and upon acceptance of the paper, Authors grant ACL a worldwide, irrevocable, and royalty-free license to use the blind submission paper version (referred as “Content”). The foregoing license grants ACL the right to reproduce, publish, distribute, prepare derivative work, and otherwise make use of the Content, and to sub-license the Content to the public according to terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nNotwithstanding the foregoing, the Parties acknowledge and agree that this Agreement does not transfer to ACL the ownership of any proprietary rights pertaining to the Content, and that the Authors retain their respective ownership in and to the Content.",
+    "value-radio": [],
+    "required": false,
+    "order": 4
+  },
+  "section_2_permission_to_publish_peer_reviewers_content": {
+    "description": "After the peer review process is concluded and upon acceptance of the paper, Authors have the option to grant ACL permission to publish peer reviewers content associated with the Content, which may include text, review form\nscores and metadata, charts, graphics, spreadsheets, and any other materials developed by peer reviewers in connection with the peer review process.",
+    "value-radio": [],
+    "required": false,
+    "order": 5
+  },
+  "section_3_attribution_and_public_access_license": {
+    "description": "A. The Parties agree that for purpose of administering the public access license, ACL will be\nidentified as the licensor of the Content with the following copyright notice:\n\nCopyright © 2021 administered by the Association for Computational Linguistics (ACL) on behalf of the authors and content contributors. Content displayed on this webpage is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nB. The Parties understand and acknowledge that the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License is irrevocable once granted unless the licensee breaches the public access license terms.",
+    "value-radio": [],
+    "required": false,
+    "order": 7
+  },
+  "section_4_effective_date": {
+    "description": "The grant of license pursuant to Section 1 and permission to publish peer reviewers content pursuant to Section 2 becomes effective in the event Authors’ blind submission paper is accepted for publication by ACL. If the blind submission paper is not accepted, the Content and associated peer reviewers content will remain confidential and kept for internal record-keeping purpose only.",
+    "value-radio": [],
+    "required": false,
+    "order": 8
+  },
+  "section_5_warranty": {
+    "description": "Authors represent and warrant that the Content is Authors’ original work and does not infringe on the proprietary rights of others. Authors further warrant that they have\nobtained all necessary permissions from any persons or organizations whose materials are included in the Content, and that the Content includes appropriate citations that give credit to the original sources.",
+    "value-radio": [],
+    "required": false,
+    "order": 9
+  },
+  "section_6_legal_relationship": {
+    "description": "The Parties agree that this Agreement is not intended to create any joint venture, partnership, or agency relationship of any kind; and both agree not to contract any obligations in the name of the other.",
+    "value-radio": [],
+    "required": false,
+    "order": 10
+  },
+  "Agreement": {
+    "description": "By selecting 'On behalf of all authors, I agree' below, I confirm that all Authors have agreed to the above terms and that I am authorized to execute this Agreement on their behalf.",
+    "value-radio": [
+      "On behalf of all authors, I agree",
+      "On behalf of all authors, I do not agree "
+    ],
+    "order": 11,
+    "required": true
+  }
+}
