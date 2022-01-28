@@ -41,7 +41,7 @@ This code base (as of now) supports the retrieval of the protected dataset of pe
 with their associated licenses (stored in a separate file). There will be an update to retrieve the public dataset
 including submission data of agreeing authors for the set of accepted papers. 
 
-To retrieve the the protected dataset, run `collect.py` providing the venue parameters, passwords and salts.
+To retrieve the protected dataset, run `collect.py` providing the venue parameters, passwords and salts.
 The resulting dataset will be stored in enrypted zip-files. Please check out the readme in the resulting
 files describing how to unpack them. We highly recommend using different passwords for the license file
 and the actual data file.
