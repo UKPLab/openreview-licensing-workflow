@@ -41,7 +41,11 @@ This code base (as of now) supports the retrieval of the protected dataset of pe
 with their associated licenses (stored in a separate file). There will be an update to retrieve the public dataset
 including submission data of agreeing authors for the set of accepted papers. 
 
+<<<<<<< HEAD
 To retrieve the the protected dataset, run `collect.py` providing the venue parameters, passwords and salts.
+=======
+To retrieve the protected dataset, run `collect.py` providing the venue parameters, passwords and salts.
+>>>>>>> 3a287497dd7dde7a6b08f0a9547f6278afc98556
 The resulting dataset will be stored in enrypted zip-files. Please check out the readme in the resulting
 files describing how to unpack them. We highly recommend using different passwords for the license file
 and the actual data file.
@@ -76,7 +80,6 @@ If you find this repository helpful or you apply the 3Y-Workflow for your data c
     url = "https://aclanthology.org/2022.findings-emnlp.23",
     pages = "300--318"
 }
-
 ```
 
 ## Contact
