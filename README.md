@@ -63,14 +63,20 @@ internal datastructures used, such as `Notes` or `Groups`:
 ## Citing & Authors
 If you find this repository helpful or you apply the 3Y-Workflow for your data collection, please cite our pre-print [Yes-Yes-Yes: Donation-based Peer Reviewing Data Collection for ACL Rolling Review and Beyond](https://arxiv.org/abs/2201.11443):
 ```bibtex 
-@misc{dycke2022yesyesyes,
-      title={Yes-Yes-Yes: Donation-based Peer Reviewing Data Collection for ACL Rolling Review and Beyond}, 
-      author={Nils Dycke and Ilia Kuznetsov and Iryna Gurevych},
-      year={2022},
-      eprint={2201.11443},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{dycke-etal-2022-yes,
+    title = "Yes-Yes-Yes: Proactive Data Collection for {ACL} Rolling Review and Beyond",
+    author = "Dycke, Nils  and
+      Kuznetsov, Ilia  and
+      Gurevych, Iryna",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.23",
+    pages = "300--318"
 }
+
 ```
 
 ## Contact
